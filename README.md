@@ -6,7 +6,7 @@
 > 
 > 懦夫才用磁带备份，真男人把重要的东西传到 FTP，然后世界会帮他备份。——林纳斯·托瓦兹
 
-* [在线阅读](https://hands1ml.apachecn.org/)
+* [在线阅读](https://hands1ml.flygon.net/)
 * [利用 Python 进行数据分析 第二版](https://github.com/apachecn/pyda-2e-zh)
 
 ## 编译
